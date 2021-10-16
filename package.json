@@ -1,0 +1,9 @@
+{
+  "name": "api-blog",
+  "version": "1.0.0",
+  "description": "REST API NodeJS (blog)",
+  "main": "index.js",
+  "author": "David Geraldo",
+  "license": "MIT",
+  "private": false
+}
